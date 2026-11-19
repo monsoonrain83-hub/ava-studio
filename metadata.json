@@ -1,0 +1,6 @@
+{
+  "name": "آوا استودیو | AVA STUDIO",
+  "description": "استودیوی جامع تبدیل متن فارسی به گفتار هوش مصنوعی با اعراب‌گذاری هوشمند، واژه‌نامه تلفظ، طراحی صدا و ویرایشگر صوت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
